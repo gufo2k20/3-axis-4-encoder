@@ -5,10 +5,10 @@ simple ButtonBox for PC
 tested with Arduino Pro Micro (HID)
 
 BOM
-1x Arduino Pro Micro (tested 5V16Mhz)
-3x linear potentiometer 10k
-4x rotary encoders with pushbutton
-1x OLED 128x64 display for input page info
+_1x Arduino Pro Micro (tested 5V16Mhz)
+_3x linear potentiometer 10k
+_4x rotary encoders with pushbutton
+_1x OLED 128x64 display for input page info
 
 nedd following libraries:
 ClickEncoder.h
