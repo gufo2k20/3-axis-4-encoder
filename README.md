@@ -4,7 +4,7 @@
 simple ButtonBox for PC
 tested with Arduino Pro Micro (HID)
 
-BOM:
+BOM
 1x Arduino Pro Micro (tested 5V16Mhz)
 3x linear potentiometer 10k
 4x rotary encoders with pushbutton
