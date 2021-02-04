@@ -28,6 +28,6 @@ Features:
 NOTES.
 - pinout can be easily retrieved in code (3 analog, 12 digital +2 for I2C
 - VERY EARLY REALEASE CODE
-- This is my first Arduino project. Any help is welcome for some array anf for loop implementation....
+- This is my first Arduino project. Any help is welcome for "array" and "for" loop implementation....
 
 MANY THANKS TO ALL AUTHORS OF THE LIBRARIES!
